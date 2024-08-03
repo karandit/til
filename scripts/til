@@ -4,4 +4,4 @@ set -e
 set -o pipefail
 set -u
 
-echo "TIL version 0.0.2"
+echo "TIL version 0.0.3"
